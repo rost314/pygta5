@@ -1,6 +1,9 @@
-numpy
-pandas
+numpy~=1.18.1
+pandas~=1.0.3
 tensorflow
-opencv-python
-pypiwin32
-tflearn
+opencv-python~=4.2.0.34
+pypiwin32~=223
+tflearn~=0.3.2
+pywin32~=227
+Pillow~=7.1.2
+pytesseract
